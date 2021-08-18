@@ -15,6 +15,7 @@ module.exports = {
     title: siteTitle,
     description: siteDescription,
     siteUrl: siteUrl,
+    pathPrefix: "/profile",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
